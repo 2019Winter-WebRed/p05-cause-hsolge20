@@ -1,0 +1,32 @@
+/*
+* Hannah Solge 
+* Due Date
+* Project Name and Description
+*/
+
+/* The university selector */
+
+* {margin: 0;
+    padding: 0;
+}
+
+/* Body attributes here */
+
+body {
+    border:  2px; 
+    padding: 20px 60px 20px 20px;
+    margin: 20px; 
+    background: #50C878
+}
+header{
+    padding: 10px;
+    margin:10px;
+}
+img {
+    width:190px;
+    padding:1px;
+    margin:10px;
+}
+a:hover{
+    color:#f7b094;
+}
